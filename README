@@ -1,0 +1,4 @@
+Instructions:
+
+ ./bootstrap.sh && ./configure && make && ./run-test.x
+
